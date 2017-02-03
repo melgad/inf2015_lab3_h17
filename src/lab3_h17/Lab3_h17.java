@@ -12,7 +12,6 @@ public class Lab3_h17 {
         System.out.println("Hello!");
         System.out.println("Premier commit");
         System.out.println("Deuxieme commit team");
-
     }
     
 }
